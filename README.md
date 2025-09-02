@@ -189,13 +189,10 @@ History is automatically saved to `~/.shell_history`.
 4. Test thoroughly
 5. Submit a pull request
 
-## License
-
-This project is released under the MIT License. See LICENSE file for details.
 
 ## Author
 
-[Your Name] - Initial implementation
+Aymane Ghafour - Initial implementation
 
 ## Acknowledgments
 
