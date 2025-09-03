@@ -50,7 +50,7 @@ A feature-rich Unix shell implementation written in C, supporting modern shell f
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/RETCY-unix/Myshell
 cd advanced-shell
 ```
 
