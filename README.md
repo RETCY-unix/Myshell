@@ -1,4 +1,4 @@
-# Advanced Shell
+# Simple Shell
 
 A feature-rich Unix shell implementation written in C, supporting modern shell features including pipes, redirection, job control, command history, aliases, and more.
 
