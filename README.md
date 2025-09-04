@@ -147,20 +147,6 @@ echo "Script completed"
 - `make valgrind` - Run with memory leak detection
 - `make static-analysis` - Run static code analysis
 
-### Project Structure
-```
-advanced-shell/
-├── shell.h                 # Header file with declarations
-├── main.c                  # Main program entry point
-├── shell_core.c           # Core shell functionality
-├── builtin_commands.c     # Built-in command implementations
-├── advanced_features.c    # Pipes, redirection, job control
-├── job_control.c          # Background job management
-├── history_aliases.c      # History and alias management  
-├── utilities.c            # Utility functions
-├── Makefile              # Build configuration
-└── README.md             # This file
-```
 
 ## Configuration
 
